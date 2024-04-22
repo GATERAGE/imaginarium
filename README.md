@@ -17,8 +17,8 @@ OpenUI let's you describe UI using your imagination, then see it rendered live. 
 You can also run OpenUI locally and use models available to [Ollama](https://ollama.com).  [Install Ollama](https://ollama.com/download) and pull a model like [CodeLlama](https://ollama.com/library/codellama), then assuming you have git and python installed:
 
 ```bash
-git clone https://github.com/wandb/openui
-cd openui/backend
+git clone https://github.com/imaginarium/openui
+cd imaginarium/backend/
 # You probably want to do this from a virtual environment
 pip install .
 # This must be set to use OpenAI models, find your api key here: https://platform.openai.com/api-keys
